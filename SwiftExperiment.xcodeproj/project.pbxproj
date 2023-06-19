@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		77ABFAEE29FF6CD10068BFA5 /* BitOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BitOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77D72F7429E66D5A00EA00B9 /* DictionaryExperiment.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DictionaryExperiment.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77D72F7529E66E9500EA00B9 /* StringExperiment.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StringExperiment.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		77E1450029F6564800C3E2B7 /* UpperLower.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = UpperLower.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		77D72F6D29E66D4100EA00B9 = {
+			isa = PBXGroup;
+			children = (
+				77ABFAEE29FF6CD10068BFA5 /* BitOperator.playground */,
+				77E1450029F6564800C3E2B7 /* UpperLower.playground */,
+				77D72F7529E66E9500EA00B9 /* StringExperiment.playground */,
+				77D72F7429E66D5A00EA00B9 /* DictionaryExperiment.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		77D72F6E29E66D4100EA00B9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 77D72F7129E66D4100EA00B9 /* Build configuration list for PBXProject "SwiftExperiment" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 77D72F6D29E66D4100EA00B9;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		77D72F7229E66D4100EA00B9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		77D72F7329E66D4100EA00B9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		77D72F7129E66D4100EA00B9 /* Build configuration list for PBXProject "SwiftExperiment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77D72F7229E66D4100EA00B9 /* Debug */,
+				77D72F7329E66D4100EA00B9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 77D72F6E29E66D4100EA00B9 /* Project object */;
+}
